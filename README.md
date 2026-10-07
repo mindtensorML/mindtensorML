@@ -7,7 +7,7 @@ These maps were built at SpaceXAI, where I lead the portfolio management pod, an
 | Map | Scale | Live page |
 |---|---|---|
 | IC memo production | 231 tasks, 27 decision points | [view](https://mindtensorml.github.io/ic-memo-creation/) |
-| PPP bid preparation (APMG-based) | 121 tasks, 13 decision gates | [view](https://mindtensorml.github.io/ppp-bid-pipeline/) |
+| PPP bid preparation (mapped to the APMG guide) | 114 tasks, 17 decision gates | [view](https://mindtensorml.github.io/ppp-bid-pipeline/) |
 | EM infrastructure portfolio | 8 steps, 5 gates, 52 nodes | [view](https://mindtensorml.github.io/pm-em/) |
 | Financial modeling playbook v8 | 91 steps, 13 checkpoints | [view](https://mindtensorml.github.io/financial-modelling/) |
 | Portfolio construction v3 | 7 steps, 35 sub-steps | [view](https://mindtensorml.github.io/pm-framework/) |
