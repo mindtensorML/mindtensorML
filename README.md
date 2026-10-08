@@ -9,7 +9,7 @@ I built these maps at SpaceXAI, where I lead the portfolio management pod. Each 
 | IC memo production | IFC Performance Standards, Equator Principles EP4 | 216 tasks, 31 decision gates | [view](https://mindtensorml.github.io/ic-memo-creation/) |
 | PPP bid preparation | APMG PPP Certification Guide | 114 tasks, 17 decision gates | [view](https://mindtensorml.github.io/ppp-bid-pipeline/) |
 | EM infrastructure portfolio | IFC Performance Standards, Operating Principles for Impact Management | 63 tasks, 14 decision gates | [view](https://mindtensorml.github.io/pm-em/) |
-| Financial modeling playbook | ICAEW Financial Modelling Code, FAST Standard | 86 tasks, 18 decision gates | [view](https://mindtensorml.github.io/financial-modelling/) |
+| Financial modeling playbook | ICAEW Financial Modelling Code, FAST Standard | 87 tasks, 20 decision gates | [view](https://mindtensorml.github.io/financial-modelling/) |
 | Portfolio construction | CFA Institute IPS guidance, GIPS 2020 | 58 tasks, 10 decision gates | [view](https://mindtensorml.github.io/pm-framework/) |
 | AI-assisted value portfolio pilot | CFA Institute Code and Standards, NIST AI RMF | 84 tasks, 8 decision gates | [view](https://mindtensorml.github.io/pm-rms/) |
 
