@@ -11,7 +11,7 @@ I built these maps at SpaceXAI, where I lead the portfolio management pod. Each 
 | EM infrastructure portfolio | IFC Performance Standards, Operating Principles for Impact Management | 60 tasks, 11 decision gates | [view](https://mindtensorml.github.io/pm-em/) |
 | Financial modeling playbook | ICAEW Financial Modelling Code, FAST Standard | 86 tasks, 18 decision gates | [view](https://mindtensorml.github.io/financial-modelling/) |
 | Portfolio construction | CFA Institute IPS guidance, GIPS 2020 | 55 tasks, 8 decision gates | [view](https://mindtensorml.github.io/pm-framework/) |
-| AI-assisted value portfolio pilot | CFA Institute Code and Standards, NIST AI RMF | 79 tasks, 7 decision gates | [view](https://mindtensorml.github.io/pm-rms/) |
+| AI-assisted value portfolio pilot | CFA Institute Code and Standards, NIST AI RMF | 84 tasks, 8 decision gates | [view](https://mindtensorml.github.io/pm-rms/) |
 
 Also built [ai-ghee](https://mindtensorml.github.io/ai-ghee/), a Raspberry Pi rig that churns traditional bilona ghee and stops itself.
 
